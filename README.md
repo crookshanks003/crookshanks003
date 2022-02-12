@@ -4,7 +4,7 @@
 
 I am a developer and currently doing my bachelors from BITS Pilani, Hyderabad Campus.
 - 🌱 I’m currently learning golang, blockchain
-- 📫 Reach me at: [E-mail](f20190495@hyderabad.bits-pilani.ac.in), [LinkedIn](https://www.linkedin.com/in/pritesh-mantri/)
+- 📫 Reach me at: [E-mail](mailto:f20190495@hyderabad.bits-pilani.ac.in), [LinkedIn](https://www.linkedin.com/in/pritesh-mantri/)
 - 💬 Ask me about typescript, rust, react, nodejs 
 
 I like to develop web and mobile apps.
