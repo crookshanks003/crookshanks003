@@ -3,7 +3,7 @@
 ![Visits Badge](https://komarev.com/ghpvc/?username=crookshanks003)
 
 I am a developer and currently doing my bachelors from BITS Pilani, Hyderabad Campus.
-- 🌱 I’m currently learning golang, blockchain
+- 🌱 I’m currently learning golang, tui
 - 📫 Reach me at: [E-mail](mailto:f20190495@hyderabad.bits-pilani.ac.in), [LinkedIn](https://www.linkedin.com/in/pritesh-mantri/)
 - 💬 Ask me about typescript, rust, react, nodejs 
 
