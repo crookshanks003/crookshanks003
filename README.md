@@ -10,6 +10,7 @@ I am a developer and currently doing my bachelors from BITS Pilani, Hyderabad Ca
 I like to develop web and mobile apps.
 - Javascript and Typescript
 - MERN stack and SQL
+- Golang
 - Rust
 - Android and Java
 
