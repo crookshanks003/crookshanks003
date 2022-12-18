@@ -8,9 +8,9 @@ I am a developer and currently doing my bachelors from BITS Pilani, Hyderabad Ca
 - 💬 Ask me about typescript, rust, react, nodejs 
 
 I like to develop web and mobile apps.
+- Golang
 - Javascript and Typescript
 - MERN stack and SQL
-- Golang
 - Rust
 - Android and Java
 
