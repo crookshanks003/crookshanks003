@@ -15,4 +15,3 @@ I like to develop web and mobile apps.
 - Android and Java
 
 ![crookshanks003's github stats](https://github-readme-stats.vercel.app/api?username=crookshanks003&show_icons=true&theme=radical&count_private=true)
-![crookshanks003's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crookshanks003)
